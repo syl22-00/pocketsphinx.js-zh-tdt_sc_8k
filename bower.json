@@ -1,0 +1,19 @@
+{
+  "name": "pocketsphinx.js-zh-tdt_sc_8k",
+  "version": "0.1.0",
+  "authors": [
+    "Sylvain Chevalier <sylvain.chevalier@gmail.com>"
+  ],
+  "description": "TDT Chinese acoustic model",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pocketsphinx.js-app": "0.1.0"
+  }
+}
